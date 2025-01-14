@@ -1,4 +1,6 @@
+﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74857 ***
+
 
 
 
@@ -260,7 +262,7 @@ of attendance was still exceedingly high. But of recent years the
 percentage of rural church-goers has almost seemed to be in an inverse
 ratio to the increase in churches. One out of every five is not a
 showing that would have brought joy to the Puritan Fathers. What is the
-reason for this precarious situation in the rural churches of our
+reason for, this precarious situation in the rural churches of our
 nation? Does it indicate that our country population is made up of a
 less God-fearing folk than in former years? Does it demonstrate that
 religion is less near to the hearts of the farm workers of the United
@@ -271,7 +273,7 @@ distribution spiritually and economically unsound?
 More than one thing must be taken into consideration in any fair-minded
 attempt to answer these questions. For instance, there is the fact that
 during the past few years the number of tenant-farmers in the United
-States has steadily increased, until now thirty-eight per cent. of the
+States has steadily increased, until now thirty eight per cent. of the
 farms are tenant operated, most often on the basis of the one-year
 lease. Any fact that tends to make the farmer more or less a transient
 in the community naturally deters him from forming social or religious
@@ -283,7 +285,7 @@ the nation’s land workers are new Americans, the foreign-born, or
 the children of the foreign-born. There are States, such as North
 Dakota, where nearly every other farmer belongs to other than American
 nativity, and whole sections of the country, as in the Middle West,
-where foreigners are in excess of two-fifths of the population. It is
+where foreigners are in excess of two fifths of the population. It is
 estimated that at the present time more than fifty per cent. of these
 people are unministered to by any church, Catholic or Protestant. Where
 anything like an earnest and comprehensive attempt has been made by
@@ -1100,7 +1102,7 @@ their figures, see for yourself:
 “In counties where tenancy runs from 0 to 10 per cent., the percentage
 of farm owners who are church members is 13.7, while the percentage
 of tenants who are church members is 12.4; where tenancy runs from 11
-to 25 per cent., the percentage of owners as church members is 26.8,
+to 25 per cent., the percentage of owners as church members, is 26.8,
 while of tenants, 19.8; where tenancy runs from 26 to 50 per cent., the
 percentage of owners is 48.2, while of tenants, 23.6; where tenancy
 runs over 50 per cent., the percentage of owners who are church members
@@ -1723,7 +1725,7 @@ beyond my power otherwise to help.
 
 To think, then, that the tip of your prayer and mine, the sweetest
 thing we can give, is poisoned, and shot into a rural community,
-there to hurt--Well the words are not so much wanting to express
+there to hurt--Well the words, are not so much wanting to express
 my indignation and yours, as the mind fails to comprehend how such
 tactless blunders can happen.
 
@@ -2134,7 +2136,7 @@ character of the community church. A constant sort of ideals that
 appeals only to the seraphic souls or to other minds only in moments
 of exalted pitch will, by a natural process of elimination, soon
 reduce the church to a temperamental sect. No, the church is made up
-of all temperaments: the matter-of-fact, active, and practical; the
+of all temperaments the matter-of-fact, active, and practical; the
 poetic, sentimental, imaginative; the strenuous; the easy-going; the
 enthusiastic; the petty; the anxious; the generous, self-denying; the
 jolly, optimistic; the gloomy, conservative; the militant, crusading;
@@ -2192,6 +2194,7 @@ for the corrections below.
 
   Page 127: “pinked out in my mind the”   “picked out in my mind the”
   Page 144: “which appopriate money we”   “which appropriate money we”
+
 
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74857 ***
